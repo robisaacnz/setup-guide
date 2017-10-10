@@ -7,7 +7,8 @@ This is the initial release.
 
 **Features:**
 
-* A new template.
+* A friendly welcome page
+* Sidebar navigation
 
 **Fixes:**
 
