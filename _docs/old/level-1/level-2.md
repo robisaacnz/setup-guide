@@ -1,6 +1,6 @@
 ---
-title: Level 3
-category: Level 2
+title: Level 2
+category: Level 1
 order: 1
 ---
 
