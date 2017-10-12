@@ -6,10 +6,10 @@ order: 1
 
 We use [Slack](https://slack.com) to manage our internal communications. You'll need to install Slack on your phone and your computer.
 
-# Install Slack on your phone
+### Install Slack on your phone
 To install Slack on your phone, use the [mobile applications]() install page later in this guide.
 
-# Install Slack on your computer
+### Install Slack on your computer
 [Install Slack](https://itunes.apple.com/nz/app/slack/id803453959?mt=12) from the Mac App Store.
 
 ![](//placehold.it/800x600)
@@ -22,5 +22,5 @@ If you don't have one, you should [create an Apple ID](https://support.apple.com
 
 If you're not sure if you have an Apple ID or you're not sure how to access it, you should [recover your Apple ID](https://support.apple.com/en-nz/HT201354) before continuing.
 
-# Next steps
+### Next steps
 [Configure Slack](), or [install Trello]().
