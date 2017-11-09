@@ -4,14 +4,10 @@ category: Configure
 order: 1
 ---
 
-Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
+MFA everything
 
-> Signing up with Facebook automatically starts syncing contacts.
+Use 1Password as MFA generator
 
-To sync your contacts:
-
-1. Open your *User Settings*
-2. Select the **Connect Facebook** button
-3. Authorise ChatApp
-
-![](//placehold.it/800x600)
+```
+https://support.1password.com/one-time-passwords/
+```
