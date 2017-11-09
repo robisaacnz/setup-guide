@@ -1,9 +1,17 @@
 ---
 title: 1Password
 category: Use
-order: 1
+order: 5
 ---
 
 
 
-Never, ever share logins with other people
+open empty browser tab
+press command \
+type the name of the service
+
+OR
+
+go to service
+get to login screen
+press command \

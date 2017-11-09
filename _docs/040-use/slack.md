@@ -1,7 +1,7 @@
 ---
 title: Slack
 category: Use
-order: 1
+order: 3
 ---
 
 bots
