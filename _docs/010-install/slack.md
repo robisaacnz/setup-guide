@@ -4,7 +4,9 @@ category: Install
 order: 1
 ---
 
-We use [Slack](https://slack.com) for our internal communications. It's our most important application by far, and once you have access to Slack you can get help with anything else. You'll need to install Slack on your phone and your computer.
+We use [Slack](https://slack.com) for our internal communications. It's our most important application by far, and once you have access to Slack you can get help with anything else.
+
+You'll need to install Slack on your phone and your computer.
 
 ### On your phone
 To install Slack on your phone, use the [mobile applications]() install page later in this guide. Mobile applications are easier to get working when you already have their desktop versions, so we recommend you set up your computer first.

@@ -34,7 +34,7 @@ When you see this message, follow these steps:
 ![](//placehold.it/800x600)
 3. Under Security Audit at the bottom left, click any categories that have a number next to them, and fix the issues listed.  
 ![](//placehold.it/800x600)
-4. Once there are no numbers next to the *Watchtower*, *Weak Passwords*, and *Duplicate Passwords* categories under Security Audit, [take a screenshot]() and post it to a Slack thread in reply to the reminder message.  
+4. Once there are no numbers next to the *Watchtower*, *Weak Passwords*, and *Duplicate Passwords* categories under Security Audit, [take a screenshot](https://support.apple.com/en-nz/HT201361) and post it to a Slack thread in reply to the reminder message.  
 ![](//placehold.it/800x600)
 
 #### Notes:
