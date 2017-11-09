@@ -5,7 +5,7 @@ title: Setup Guide
 url: "https://robisaacnz.github.io/view-source/"
 baseurl:
 google_analytics_key:
-show_full_navigation: true
+show_full_navigation: false
 
 logo: /siteicon.png
 description: A complete guide to installing and configuring the tools we use at Figure.NZ.
