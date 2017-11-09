@@ -16,7 +16,7 @@ To install Slack on your phone, use the [mobile applications]() install page lat
 
 Use your own [Apple ID](https://support.apple.com/apple-id) for this installation. Your personal Apple ID is the account you typically use for iTunes, iCloud, and other Apple services.
 
-> The Slack app is free to install, and we pay for your use of the service.
+> 🚩 The Slack app is free to install, and we pay for your use of the service.
 
 If you don't have one, you should [create an Apple ID](https://support.apple.com/en-us/HT203993) using your personal email address, not your work address.
 
