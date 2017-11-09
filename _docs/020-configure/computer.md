@@ -45,3 +45,8 @@ System Preferences / Security & Privacy / FileVault
 System Preferences / Time Machine
     Time Machine is turned on
 
+
+Turn on guest user
+make visible in menu bar
+never let anyone else use your computer as you, even briefly
+
