@@ -4,14 +4,11 @@ category: Configure
 order: 4
 ---
 
-Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
+set your notification times
 
-> Signing up with Facebook automatically starts syncing contacts.
+set alerts for variations of your name
 
-To sync your contacts:
+set alert for your trello handle
 
-1. Open your *User Settings*
-2. Select the **Connect Facebook** button
-3. Authorise ChatApp
+set alert for your github handle
 
-![](//placehold.it/800x600)
