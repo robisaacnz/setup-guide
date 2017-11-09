@@ -10,8 +10,8 @@ If you need an Office 365 license, ask on Slack.
 ## Rules
 We have two rules for using Microsoft Office:
 
-1. *Never* use Office 365 to publish anything that will be seen by the general public, because it does not render our brand fonts correctly.
-2. *Never* use Office 365 for documents you will share with other staff, because Office documents are a security risk and not everyone uses it or has it installed.
+1. **Never** use Office 365 to publish anything that will be seen by the general public, because it does not render our brand fonts correctly.
+2. **Never** use Office 365 for documents you will share with other staff, because Office documents are a security risk and not everyone uses it or has it installed.
 
 ## Notes
 If you've used Microsoft Office to create documents for your own use, convert them before sharing them with other team members. It's important to do this even if you believe the other team member uses Microsoft Office as well, to ensure your work remains accessible to everyone.
