@@ -1,7 +1,7 @@
 ---
 title: Calendar
 category: Configure
-order: 1
+order: 10
 ---
 
 add your birthday to the events calendar

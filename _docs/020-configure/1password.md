@@ -1,7 +1,7 @@
 ---
-title: Slack
+title: 1Password
 category: Configure
-order: 4
+order: 6
 ---
 
 Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!

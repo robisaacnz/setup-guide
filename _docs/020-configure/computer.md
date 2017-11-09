@@ -1,7 +1,7 @@
 ---
-title: Slack
+title: Your computer
 category: Configure
-order: 4
+order: 2
 ---
 
 Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!

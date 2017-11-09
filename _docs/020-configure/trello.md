@@ -1,7 +1,7 @@
 ---
-title: Slack
+title: Trello
 category: Configure
-order: 4
+order: 5
 ---
 
 Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
