@@ -18,7 +18,7 @@ press command \
 
 
 
-1Password for Teams only shows you the passwords for your team, plus some shared logins that everyone is likely to need.
+1Password for Teams only shows you the passwords for your team, plus some shared logins that everyone is likely to need. This means everyone sees a slightly different set of passwords, and sometimes, you may not be able to see a password you need.
 
 Team passwords are segregated this way to reduce the loss from any one person being compromised. We trust you, but we don't trust the people who have stolen your computer.
 
