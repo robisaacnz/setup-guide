@@ -31,4 +31,4 @@ If you intend to be away from your computer for a long time (for example, while 
 
 
 ### Next steps
-[Configure Slack](), or [install Trello]().
+[Install the mobile apps](../../1-install/mobile/), or [configure GitHub Desktop](../../2-configure/github/).
