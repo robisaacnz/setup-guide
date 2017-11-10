@@ -25,10 +25,10 @@ If you don't have one, you should [create an Apple ID](https://support.apple.com
 If you're not sure if you have an Apple ID or you're not sure how to access it, you should [recover your Apple ID](https://support.apple.com/en-nz/HT201354) before continuing.
 
 ### Next steps
-[Configure Slack](/020-configure/slack.html), or [install Trello](/010-install/trello.html).
+[Configure Slack](/020-configure/slack), or [install Trello](/010-install/trello.html).
 
-[Configure Slack](../020-configure/slack.html), or [install Trello](/010-install/trello.html).
+[Configure Slack](../020-configure/slack), or [install Trello](/010-install/trello.html).
 
-[Configure Slack](../../020-configure/slack.html), or [install Trello](/010-install/trello.html).
+[Configure Slack](../../020-configure/slack), or [install Trello](/010-install/trello.html).
 
-[Configure Slack](/setup-guide/020-configure/slack.html), or [install Trello](/010-install/trello.html).
+[Configure Slack](/setup-guide/020-configure/slack), or [install Trello](/010-install/trello.html).
