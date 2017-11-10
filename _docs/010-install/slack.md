@@ -26,3 +26,9 @@ If you're not sure if you have an Apple ID or you're not sure how to access it, 
 
 ### Next steps
 [Configure Slack](/020-configure/slack.html), or [install Trello](/010-install/trello.html).
+
+[Configure Slack](../020-configure/slack.html), or [install Trello](/010-install/trello.html).
+
+[Configure Slack](../../020-configure/slack.html), or [install Trello](/010-install/trello.html).
+
+[Configure Slack](/setup-guide/020-configure/slack.html), or [install Trello](/010-install/trello.html).
