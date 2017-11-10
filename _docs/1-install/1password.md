@@ -30,4 +30,4 @@ If you're not sure if you have an Apple ID or you're not sure how to access it, 
 1Password for Teams never shares the contents of your personal vault with us or anyone else, and if you stop working here, we'll pay for an extra three months of service to give you time to retrieve your passwords.
 
 ### Next steps
-[Configure 1Password](), or [install Google Drive]().
+[Install Google Drive](../../1-install/google-drive/), or [configure Slack](../../2-configure/1password/).

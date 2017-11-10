@@ -25,4 +25,4 @@ If you don't have one, you should [create an Apple ID](https://support.apple.com
 If you're not sure if you have an Apple ID or you're not sure how to access it, you should [recover your Apple ID](https://support.apple.com/en-nz/HT201354) before continuing.
 
 ### Next steps
-[Install Trello](../../1-install/trello), or [configure Slack](../../2-configure/slack).
+[Install Trello](../../1-install/trello/), or [configure Slack](../../2-configure/slack/).
