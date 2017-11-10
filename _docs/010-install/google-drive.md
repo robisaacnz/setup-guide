@@ -3,15 +3,27 @@ title: Google Drive File Stream
 category: Install
 order: 4
 ---
+We use [Google Drive](https://www.google.com/drive/) to store and share our files.
 
-Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
+You'll need to install Google Drive on your phone and your computer.
 
-> Signing up with Facebook automatically starts syncing contacts.
+### On your phone
+To install Google Drive on your phone, use the [mobile applications]() install page later in this guide. Mobile applications are easier to get working when you already have their desktop versions, so we recommend you set up your computer first.
 
-To sync your contacts:
+### On your computer
+Download the [Drive File Stream](https://dl.google.com/drive-file-stream/GoogleDriveFileStream.dmg) app.
 
-1. Open your *User Settings*
-2. Select the **Connect Facebook** button
-3. Authorise ChatApp
+> 🚩 The Drive File Stream app is free to install, and we pay for your use of the service.
+
+Open the Google Drive File Stream disk by double-clicking it in your Downloads menu.
 
 ![](//placehold.it/800x600)
+
+Install Google Drive File Stream by double-clicking the package.
+
+![](//placehold.it/800x600)
+
+Follow the instructions.
+
+### Next steps
+[Configure Slack](), or [install Trello]().
