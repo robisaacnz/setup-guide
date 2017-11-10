@@ -26,4 +26,4 @@ Install Google Drive File Stream by double-clicking the package.
 Follow the instructions.
 
 ### Next steps
-[Configure Slack](), or [install Trello]().
+[Install the mobile apps](../../1-install/mobile/), or [configure Google Drive](../../2-configure/google-drive/).
