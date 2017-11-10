@@ -8,7 +8,7 @@ We use [Google Drive](https://www.google.com/drive/) to store and share our file
 You'll need to install Google Drive on your phone and your computer.
 
 ### On your phone
-To install Google Drive on your phone, use the [mobile applications]() install page later in this guide. Mobile applications are easier to get working when you already have their desktop versions, so we recommend you set up your computer first.
+To install Google Drive on your phone, use the [mobile applications](../../1-install/mobile/) install page later in this guide. Mobile applications are easier to get working when you already have their desktop versions, so we recommend you set up your computer first.
 
 ### On your computer
 Download the [Drive File Stream](https://dl.google.com/drive-file-stream/GoogleDriveFileStream.dmg) app.

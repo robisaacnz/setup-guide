@@ -9,7 +9,7 @@ We use [Trello](https://trello.com) to manage our internal workflow. It's how we
 You'll need to install Trello on your phone and your computer.
 
 ### On your phone
-To install Trello on your phone, use the [mobile applications]() install page later in this guide. Mobile applications are easier to get working when you already have their desktop versions, so we recommend you set up your computer first.
+To install Trello on your phone, use the [mobile applications](../../1-install/mobile/) install page later in this guide. Mobile applications are easier to get working when you already have their desktop versions, so we recommend you set up your computer first.
 
 ### On your computer
 [Install Trello](https://itunes.apple.com/nz/app/trello/id1278508951?mt=12) from the Mac App Store.

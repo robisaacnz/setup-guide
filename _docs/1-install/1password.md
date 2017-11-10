@@ -9,7 +9,7 @@ We use [1Password for Teams](https://1password.com/teams/) to manage access to o
 You'll need to install 1Password on your phone and your computer.
 
 ### On your phone
-To install 1Password on your phone, use the [mobile applications]() install page later in this guide.
+To install 1Password on your phone, use the [mobile applications](../../1-install/mobile/) install page later in this guide. Mobile applications are easier to get working when you already have their desktop versions, so we recommend you set up your computer first.
 
 ### On your computer
 [Install 1Password](https://itunes.apple.com/nz/app/1password-password-manager-and-secure-wallet/id443987910?mt=12) from the Mac App Store.
