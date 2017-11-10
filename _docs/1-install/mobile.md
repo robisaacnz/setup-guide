@@ -3,19 +3,17 @@ title: Mobile applications
 category: Install
 order: 5
 ---
-> 🚩 Open this page on your phone, then tap the links to open the correct apps in the App Store.
 
-### Install
-[📲 Slack](https://itunes.apple.com/nz/app/slack-business-communication-for-teams/id618783545?mt=8)
+> 🚩 Open this page on your phone.
 
-[📲 Trello](https://itunes.apple.com/nz/app/trello/id461504587?mt=8)
+Tap each link to open the App Store, then tap **GET** to install each app.
 
+![](//placehold.it/800x600)
 
-* [Google Drive](https://itunes.apple.com/nz/app/google-drive-online-backup-cloud-storage-space/id507874739?mt=8)
-* Install [Slack](https://itunes.apple.com/nz/app/slack-business-communication-for-teams/id618783545?mt=8) from 
-* [1Password](https://itunes.apple.com/nz/app/1password-password-manager/id568903335?mt=8)
-* [Trello](https://itunes.apple.com/nz/app/trello/id461504587?mt=8)
-
+* [📲 Slack](https://itunes.apple.com/nz/app/slack-business-communication-for-teams/id618783545?mt=8)
+* [📲 Trello](https://itunes.apple.com/nz/app/trello/id461504587?mt=8)
+* [📲 1Password](https://itunes.apple.com/nz/app/1password-password-manager/id568903335?mt=8)
+* [📲 Google Drive](https://itunes.apple.com/nz/app/google-drive-online-backup-cloud-storage-space/id507874739?mt=8)
 
 ### Notes
 
