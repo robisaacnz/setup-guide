@@ -3,11 +3,12 @@ title: Mobile applications
 category: Install
 order: 5
 ---
-> 🚩 Open this page on your phone, then tap the links to open the App Store to the right place automatically.
+> 🚩 Open this page on your phone, then tap the links to open the correct apps in the App Store.
 
-## Install
-### Slack
-Install [Slack](https://itunes.apple.com/nz/app/slack-business-communication-for-teams/id618783545?mt=8) from the iOS App Store.
+### Install
+[📲 Slack](https://itunes.apple.com/nz/app/slack-business-communication-for-teams/id618783545?mt=8)
+
+[📲 Trello](https://itunes.apple.com/nz/app/trello/id461504587?mt=8)
 
 
 * [Google Drive](https://itunes.apple.com/nz/app/google-drive-online-backup-cloud-storage-space/id507874739?mt=8)
