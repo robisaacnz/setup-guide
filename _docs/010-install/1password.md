@@ -4,7 +4,9 @@ category: Install
 order: 3
 ---
 
-We use [1Password for Teams](https://1password.com/teams/) to manage access to our services. You'll need to install 1Password on your phone and your computer.
+We use [1Password for Teams](https://1password.com/teams/) to manage access to our services.
+
+You'll need to install 1Password on your phone and your computer.
 
 ### On your phone
 To install 1Password on your phone, use the [mobile applications]() install page later in this guide.

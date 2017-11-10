@@ -4,7 +4,9 @@ category: Install
 order: 2
 ---
 
-We use [Trello](https://trello.com) to manage our internal workflow. It's how we keep track of what everyone is working on. You'll need to install Trello on your phone and your computer.
+We use [Trello](https://trello.com) to manage our internal workflow. It's how we keep track of what everyone is working on.
+
+You'll need to install Trello on your phone and your computer.
 
 ### On your phone
 To install Trello on your phone, use the [mobile applications]() install page later in this guide. Mobile applications are easier to get working when you already have their desktop versions, so we recommend you set up your computer first.
